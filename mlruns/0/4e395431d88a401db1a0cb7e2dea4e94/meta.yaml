@@ -1,0 +1,14 @@
+artifact_uri: file:///C:/Users/joevi/projects/Mlops_Corr_Cancer/mlruns/0/4e395431d88a401db1a0cb7e2dea4e94/artifacts
+end_time: 1757271754450
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 4e395431d88a401db1a0cb7e2dea4e94
+run_name: powerful-bass-649
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1757271746714
+status: 3
+tags: []
+user_id: joevi

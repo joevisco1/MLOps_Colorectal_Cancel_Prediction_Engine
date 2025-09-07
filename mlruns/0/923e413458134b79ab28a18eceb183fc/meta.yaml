@@ -1,0 +1,14 @@
+artifact_uri: file:///C:/Users/joevi/projects/Mlops_Corr_Cancer/mlruns/0/923e413458134b79ab28a18eceb183fc/artifacts
+end_time: 1757272192041
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 923e413458134b79ab28a18eceb183fc
+run_name: efficient-cod-140
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1757272184313
+status: 3
+tags: []
+user_id: joevi
